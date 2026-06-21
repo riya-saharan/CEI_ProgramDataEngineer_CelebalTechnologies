@@ -1,0 +1,9 @@
+id,name,age,city,category,sales
+1,Riya,21,Jaipur,Electronics,5000
+2,Aman,25,Delhi,Fashion,3000
+3,Riya,21,Jaipur,Electronics,5000
+4,Neha,,Mumbai,Fashion,4000
+5,Rahul,28,,Electronics,7000
+6,Ankit,23,Pune,Fashion,
+7,Simran,22,Delhi,Electronics,6500
+8,Arjun,24,Mumbai,Fashion,3500
