@@ -1,0 +1,11 @@
+id,name,age,city,category,sales,quantity,order_date
+1,Riya,21,Jaipur,Electronics,25000,2,2026-06-01
+2,Aman,22,Delhi,Furniture,15000,1,2026-06-02
+3,Neha,,Mumbai,Electronics,30000,3,2026-06-03
+4,Rahul,24,,Clothing,8000,2,2026-06-04
+5,Simran,23,Bangalore,Furniture,,1,2026-06-05
+6,Karan,25,Jaipur,Electronics,45000,4,2026-06-06
+7,Riya,21,Jaipur,Electronics,25000,2,2026-06-01
+8,Priya,22,Delhi,Clothing,12000,,2026-06-07
+9,Varun,26,Mumbai,Furniture,18000,2,2026-06-08
+10,Isha,,Bangalore,Electronics,52000,5,2026-06-09

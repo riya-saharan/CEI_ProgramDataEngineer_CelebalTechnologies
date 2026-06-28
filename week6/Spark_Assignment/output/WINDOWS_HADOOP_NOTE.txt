@@ -1,0 +1,1 @@
+Spark transformations ran successfully. CSV/Parquet write may require proper winutils.exe and hadoop.dll on Windows.
